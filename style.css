@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body{
+    background-color: rgb(182, 230, 214) !important;
+    
+}
+
+.hide {
+    display: none; /* Element ko completely chhupane ke liye */
+}
+
+.show {
+    display: block; /* Ya jis type ka display chahiye, woh set karein */
+}
